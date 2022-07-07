@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201094255238",
+    "firebase_url": "https://testqqqq-13ccf-default-rtdb.firebaseio.com",
+    "project_id": "testqqqq-13ccf",
+    "storage_bucket": "testqqqq-13ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201094255238:android:4915bb094802379f38f707",
+        "android_client_info": {
+          "package_name": "com.example.textmatemd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201094255238-pq702stvrs4vjnpska08o8q9anroqbhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWPx8rMA3xOWfdWjhog9za8GSNtS1M_VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201094255238-pq702stvrs4vjnpska08o8q9anroqbhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
